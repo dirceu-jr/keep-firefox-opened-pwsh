@@ -14,6 +14,8 @@ Simple PowerShell script that reopens Firefox if closed.
 
 <hr>
 
+## Obs
+
 - If you want to place the PowerShell script in another folder, replace the path at `startup-script.cmd`.
 
 - Default check interval is 10 seconds. Change `Start-Sleep -Seconds 10` of `keep-opened-script.ps1` for what best suits your case.
