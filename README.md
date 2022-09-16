@@ -1,4 +1,4 @@
-<img src="https://icongr.am/simple/powershell.svg?size=240&colored=true" width="120"> <img src="https://icongr.am/devicon/firefox-original.svg?size=240" width="120">
+<img src="https://icongr.am/simple/powershell.svg?size=240&colored=true" width="100"> <img src="https://icongr.am/devicon/firefox-original.svg?size=240" width="100">
 
 Simple PowerShell script that reopens Firefox if closed.
 
